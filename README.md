@@ -1,5 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz289-mHJvcSxkbDhYuj33Tta_gSv2MzuBeQ&usqp=CAU"  width="800" height="600">
-<h3>Hi! Welcome to my GitHub account! </h3>
+
 <div align="center">
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz289-mHJvcSxkbDhYuj33Tta_gSv2MzuBeQ&usqp=CAU" width="60%" height="60%" >
 </div>
@@ -16,7 +15,7 @@
     <img align="center" src="https://komarev.com/ghpvc/?username=emryduman&style=flat-square&color=blue" alt="viewCounter"/>
 </div>
 <h1 align="center">
-     Hi,welcome!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+     Hi! Welcome to my GitHub account!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 
