@@ -1,8 +1,8 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz289-mHJvcSxkbDhYuj33Tta_gSv2MzuBeQ&usqp=CAU"  width="800" height="600">
 <h3>Hi! Welcome to my GitHub account! </h3>
-//<div align="center">
-// <img src="https://github.com/AccountNameYazin/RepoIsminiyazin/blob/main/gorselLinki" width="60%" height="60%" >
-//</div>
+<div align="center">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz289-mHJvcSxkbDhYuj33Tta_gSv2MzuBeQ&usqp=CAU" width="60%" height="60%" >
+</div>
 
 
 <div id="badges" align="center">
